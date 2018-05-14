@@ -1,2 +1,5 @@
 # hello-world
-Teszt
+#Teszt
+
+
+print("Hello world")
